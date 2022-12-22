@@ -22,13 +22,13 @@ organizations:
     url: https://www.jlu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include bioinspired superhydrophobic surfaces.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinspired superhydrophobicity
+  - Co
+  - Informat
 
 # Education to show in About widget
 education:
